@@ -1,3 +1,3 @@
-Public IPv4: 118.69.191.115
-Updated at: 2025-12-19 11:30:01 +07
+Public IPv4: 118.69.186.57
+Updated at: 2025-12-19 11:32:01 +07
 Timezone: Asia/Bangkok (UTC+7)
